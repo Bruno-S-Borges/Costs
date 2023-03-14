@@ -1,0 +1,40 @@
+{
+  "projects": [
+    {
+      "name": "Menu2",
+      "budget": "6632",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "cost": 600,
+      "services": [
+        {
+          "name": "Menu2",
+          "cost": "600",
+          "description": "asDSDAF",
+          "id": "9447b3d3-5c56-4f15-968b-582c3f1dc30b"
+        }
+      ],
+      "id": 2
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Infra"
+    },
+    {
+      "id": 2,
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": 3,
+      "name": "Design"
+    },
+    {
+      "id": 4,
+      "name": "Planejamento"
+    }
+  ]
+}
